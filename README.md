@@ -1,6 +1,6 @@
 # Hi, I'm Jia Nigam 👋
 
-🎓 Maths & Computing Undergraduate  
+🎓 Mathematics and Computing Undergraduate  
 💻 Passionate about AI, Algorithms, and Full-Stack Development  
 🚀 Building systems that solve real problems  
 
@@ -8,7 +8,7 @@
 
 ## 🧠 Me:
 
-I enjoy working at the intersection of mathematics and CS, Currently focused on strengthening problem-solving skills, machine learning foundations, and scalable backend systems.
+I enjoy working at the intersection of maths and CS, Currently focused on strengthening problem-solving skills, ML foundations, and scalable backend systems.
 
 ---
 
@@ -30,6 +30,15 @@ I enjoy working at the intersection of mathematics and CS, Currently focused on 
 
 ---
 
+## 📊 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jianigam&theme=tokyonight)
+
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jianigam&theme=tokyonight)
+
+
+---
+
 ## 📌 Highlight Projects
 
 🔹 **Sign Language Determination**  
@@ -40,14 +49,6 @@ Full-stack city travel comparison system with cost & time optimization.
 
 🔹 **E-Commerce Management System**  
 Backend-focused REST API system with JWT authentication.
-
----
-## 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jianigam&theme=tokyonight)
-
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jianigam&theme=tokyonight)
-
 
 ---
 
