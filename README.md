@@ -1,65 +1,71 @@
-# 👋 Hi, I'm Jia Nigam!
+# Hi, I'm Jia Nigam 👋
 
-🚀 Passionate about building useful software  
+🎓 Maths & Computing Undergraduate  
+💻 Passionate about AI, Algorithms, and Full-Stack Development  
+🚀 Building systems that solve real problems  
 
-
+---
 
 ## 🧠 About Me
 
-I'm a Maths & CS student who enjoys solving problems and building projects that make life easier.
+I enjoy working at the intersection of mathematics and computer science.  
+Currently focused on strengthening problem-solving skills, machine learning foundations, and scalable backend systems.
 
+- 🧩 Strong interest in Data Structures & Algorithms  
+- 🤖 Exploring Machine Learning & Deep Learning  
+- 🌐 Building full-stack applications  
+- 🛠 Love turning ideas into working products  
 
+---
 
-## 💻 Interests
+## 💻 Tech Stack
 
-- Development
-- Algorithms
-- Machine Learning
+**Languages**
+- C++
+- Python
+- Go
+- JavaScript
 
-##🛠️ Tech Stack
+**Frameworks & Tools**
+- React.js
+- Node.js
+- Git & GitHub
+- MATLAB
+- SQL
 
-#Languages
+---
 
-HTML
+## 📌 Highlight Projects
 
-CSS
+🔹 **Sign Language Determination**  
+Real-time ASL detection using CNNs.
 
-JavaScript
+🔹 **SmartCommute**  
+Full-stack city travel comparison system with cost & time optimization.
 
-Python
+🔹 **E-Commerce Management System**  
+Backend-focused REST API system with JWT authentication.
 
+---
 
-#Frameworks & Tools
+## 📈 Current Focus
 
-React
+- Competitive Programming (CP + DSA)
+- Machine Learning Optimization
+- System Design Basics
 
-Node.js
+---
 
-Git & GitHub
+## 📫 Connect With Me
 
-VS Code
+- LinkedIn: [Add link here]
+- Portfolio: [Add link here]
+- Email: [your email]
 
+---
 
+> “Build deeply. Think mathematically. Ship practically.”
 
-##📌 Featured Projects
-🔹 
-
-Tech used: [Tech stack]
-🔗 [Project link]
-
-🔹 [Project Name]
-
-Short description.
-Tech used: [Tech stack]
-🔗 [Project link]
-
-## 📊 GitHub Stats:
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jianigam&show_icons=true&theme=default)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jianigam&layout=compact)
 
 
 
