@@ -49,11 +49,11 @@ Backend-focused REST API system with JWT authentication.
 ---
 ## 📊 GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jianigam&show_icons=true&theme=default)
 
+![Jia's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jianigam&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jianigam&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jianigam&layout=compact)
 
 ---
 
