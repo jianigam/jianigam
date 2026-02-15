@@ -15,9 +15,10 @@ I'm a Maths & CS student who enjoys solving problems and building projects that 
 - Development
 - Algorithms
 - Machine Learning
-🛠️ Tech Stack
 
-##Languages
+##🛠️ Tech Stack
+
+#Languages
 
 HTML
 
@@ -28,7 +29,7 @@ JavaScript
 Python
 
 
-##Frameworks & Tools
+#Frameworks & Tools
 
 React
 
