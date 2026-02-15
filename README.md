@@ -47,20 +47,28 @@ Full-stack city travel comparison system with cost & time optimization.
 Backend-focused REST API system with JWT authentication.
 
 ---
+## 📊 GitHub Stats:
 
-## 📈 Current Focus
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jianigam&show_icons=true&theme=default)
 
-- Competitive Programming (CP + DSA)
-- Machine Learning Optimization
-- System Design Basics
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jianigam&layout=compact)
+
+---
+
+## 📈 Current Focus & 🎯 Goals
+
+- Contribute to open source
+- Build real-world projects
+- Improve problem-solving skills
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add link here]
-- Portfolio: [Add link here]
-- Email: [your email]
+- LinkedIn: [Here](https://in.linkedin.com/in/jia-nigam)
+
 
 ---
 
@@ -69,20 +77,4 @@ Backend-focused REST API system with JWT authentication.
 
 
 
-##🎯 Goals
 
-Contribute to open source
-
-Build real-world projects
-
-Improve problem-solving skills
-
-Learn advanced system design
-
-🤝 Let's Connect
-
-LinkedIn: [Link]
-
-Portfolio: [Link]
-
-Email: [Email]
