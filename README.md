@@ -7,7 +7,6 @@
 
 I enjoy working at the intersection of maths and CS, Currently focused on strengthening problem-solving skills, ML foundations, and scalable backend systems.
 
----
 
 ## 💻 Tech Stack
 
