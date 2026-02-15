@@ -2,13 +2,13 @@
 
 🚀 Passionate about building useful software  
 
----
+
 
 ## 🧠 About Me
 
 I'm a Maths & CS student who enjoys solving problems and building projects that make life easier.
 
----
+
 
 ## 💻 Interests
 
@@ -17,7 +17,7 @@ I'm a Maths & CS student who enjoys solving problems and building projects that 
 - Machine Learning
 🛠️ Tech Stack
 
-Languages
+##Languages
 
 HTML
 
@@ -28,7 +28,7 @@ JavaScript
 Python
 
 
-Frameworks & Tools
+##Frameworks & Tools
 
 React
 
@@ -38,12 +38,11 @@ Git & GitHub
 
 VS Code
 
-[Add yours]
 
-📌 Featured Projects
-🔹 [Project Name]
 
-Short description of what it does.
+##📌 Featured Projects
+🔹 
+
 Tech used: [Tech stack]
 🔗 [Project link]
 
@@ -53,7 +52,7 @@ Short description.
 Tech used: [Tech stack]
 🔗 [Project link]
 
-📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jianigam&show_icons=true&theme=default)
 
@@ -63,7 +62,7 @@ Tech used: [Tech stack]
 
 
 
-🎯 Goals
+##🎯 Goals
 
 Contribute to open source
 
