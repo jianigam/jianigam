@@ -6,32 +6,27 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Me:
 
-I enjoy working at the intersection of mathematics and computer science.  
-Currently focused on strengthening problem-solving skills, machine learning foundations, and scalable backend systems.
-
-- 🧩 Strong interest in Data Structures & Algorithms  
-- 🤖 Exploring Machine Learning & Deep Learning  
-- 🌐 Building full-stack applications  
-- 🛠 Love turning ideas into working products  
+I enjoy working at the intersection of mathematics and CS, Currently focused on strengthening problem-solving skills, machine learning foundations, and scalable backend systems.
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**
-- C++
-- Python
-- Go
-- JavaScript
+### 🧠 Languages  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Frameworks & Tools**
-- React.js
-- Node.js
-- Git & GitHub
-- MATLAB
-- SQL
+### ⚙️ Frameworks & Tools  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=Mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 
 ---
 
