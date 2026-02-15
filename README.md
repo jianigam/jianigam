@@ -1,18 +1,20 @@
-👋 Hi, I'm Jia Nigam!
+# 👋 Hi, I'm Jia Nigam!
 
-🚀 Passionate about building useful software
+🚀 Passionate about building useful software  
 
+---
 
-🧠 About Me
+## 🧠 About Me
 
-I’m a Maths & CS Student who enjoys solving problems and building projects that make life easier.
+I'm a Maths & CS student who enjoys solving problems and building projects that make life easier.
 
-I’m especially interested in:
+---
 
-🔹 Development
+## 💻 Interests
 
-🔹 Alogrithms
-
+- Development
+- Algorithms
+- Machine Learning
 🛠️ Tech Stack
 
 Languages
